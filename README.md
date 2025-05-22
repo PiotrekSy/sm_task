@@ -4,6 +4,7 @@
 
 ```bash
 yarn smRun
+```
 
 🧰 Requirements:
 Before running the command above, make sure you have:
