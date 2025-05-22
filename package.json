@@ -4,7 +4,7 @@
   "main": "sm_task.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "smRun": "ts-node sm_task.ts"
+    "smRun": "[ -d node_modules ] || yarn install && ts-node sm_task.ts"
   },
   "keywords": [],
   "author": "piotrekSy",
